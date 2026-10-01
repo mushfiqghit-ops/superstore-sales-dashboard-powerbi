@@ -45,16 +45,16 @@ Power BI Desktop, DAX
 
 ## Screenshots
 
-![Executive Summary](screenshots/01-executive-summary.png)
-![Customer & Geography](screenshots/02-customer-geography.png)
-![Sales Analysis](screenshots/03-sales-analysis.png)
-![Overview](screenshots/04-overview.png)
-![Profit Decomposition](screenshots/05-profit-decomposition.png)
+![Executive Summary](Screenshots/01-executive-summary.png)
+![Customer & Geography](Screenshots/02-customer-geography.png)
+![Sales Analysis](Screenshots/03-sales-analysis.png)
+![Overview](Screenshots/04-overview.png)
+![Profit Decomposition](Screenshots/05-profit-decomposition.png)
 
 ## Files
 
 - `SALES_REPORT.pbix`: Power BI report
-- `screenshots/`: report page images
+- `Screenshots/`: report page images
 
 ## Author
 
