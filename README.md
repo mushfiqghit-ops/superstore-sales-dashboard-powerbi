@@ -50,6 +50,7 @@ Power BI Desktop, DAX
 ![Sales Analysis](Screenshots/Sales%20Analysis.jpg)
 ![Overview](Screenshots/Overview.jpg)
 ![Profit Decomposition](Screenshots/Profit%20Decomposition%20Tree.jpg)
+
 ## Files
 
 - `SALES_REPORT.pbix`: Power BI report
